@@ -12,7 +12,7 @@ This interactive *Tableau dashboard* provides key insights into the *Netflix con
 - Year-wise trends  
 - Proportion of Movies vs. TV Shows  
 
-Designed for *content strategists, **data analysts, and **entertainment industry professionals* to make informed, data-driven decisions.
+Designed for **content strategists**, **data analysts**, and **entertainment industry professionals** to make informed, data-driven decisions.
 
 ---
 
@@ -63,7 +63,7 @@ Publicly available *Netflix Titles* dataset including:
 ![Netflix Dashboard](https://github.com/krishnasree76/Netflix-Tv-Shows-Series-Dashboard/blob/main/Netflix%20Dashboard.png)
 
 > The dashboard is built in *Tableau* for interactive analysis.  
-> You can *hover, **filter, and **explore* each component in the Tableau environment.
+> You can **hover**, **filter**, and **explore** each component in the Tableau environment.
 
 *Note*: The image shown above is a static export.  
-To explore the interactive version, view the published Tableau workbook on [Tableau Public](https://public.tableau.com/app/profile/krishna.raja.sree.bonam/viz/NetflixDashboard_17456785051100/Dashboard1)).
+To explore the interactive version, view the published Tableau workbook on [Tableau Public](https://public.tableau.com/app/profile/krishna.raja.sree.bonam/viz/NetflixDashboard_17456785051100/Dashboard1).
