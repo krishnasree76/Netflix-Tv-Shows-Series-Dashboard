@@ -60,7 +60,7 @@ Publicly available *Netflix Titles* dataset including:
 
 ### Full Dashboard View
 
-![Netflix Dashboard](https://github.com/your-username/your-repo-name/blob/main/netflix_dashboard.png?raw=true)
+![Netflix Dashboard](https://github.com/krishnasree76/Netflix-Tv-Shows-Series-Dashboard/blob/main/Netflix%20Dashboard.png)
 
 > The dashboard is built in *Tableau* for interactive analysis.  
 > You can *hover, **filter, and **explore* each component in the Tableau environment.
