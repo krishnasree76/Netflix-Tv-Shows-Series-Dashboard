@@ -4,7 +4,7 @@
 
 ## Description
 
-This interactive *Tableau dashboard* provides key insights into the *Netflix content library across the globe*. It helps users understand:
+This interactive **Tableau dashboard** provides key insights into the **Netflix content library across the globe**. It helps users understand:
 
 - Global distribution of content  
 - Genre-wise popularity  
@@ -18,15 +18,15 @@ Designed for **content strategists**, **data analysts**, and **entertainment ind
 
 ## Tech Stack
 
-- *Visualization Tool*: Tableau  
-- *Data Preparation*: CSV/Excel (Netflix Titles Dataset)  
-- *Platform*: Tableau Desktop (Windows/Mac)  
+- **Visualization Tool**: Tableau  
+- **Data Preparation**: CSV/Excel (Netflix Titles Dataset)  
+- **Platform**: Tableau Desktop (Windows/Mac)  
 
 ---
 
 ## Data Source
 
-Publicly available *Netflix Titles* dataset including:
+Publicly available **Netflix Titles** dataset including:
 
 - Title type (Movie/TV Show)  
 - Country availability  
@@ -39,19 +39,19 @@ Publicly available *Netflix Titles* dataset including:
 
 ## Features / Highlights
 
-- *Worldwide Distribution*  
+- **Worldwide Distribution**  
   Choropleth map showing the number of titles per country  
 
-- *Top 10 Genres*  
+- **Top 10 Genres**  
   Bar chart highlighting the most popular content genres  
 
-- *Ratings Analysis*  
+- **Ratings Analysis**  
   Histogram of shows/movies based on their maturity ratings  
 
-- *Movie vs TV Show Split*  
+- **Movie vs TV Show Split**  
   Bubble chart displaying the relative volume of movies and TV shows  
 
-- *Year-wise Content Trends*  
+- **Year-wise Content Trends**  
   Area chart showing how the Netflix library grew over time  
 
 ---
@@ -62,8 +62,8 @@ Publicly available *Netflix Titles* dataset including:
 
 ![Netflix Dashboard](https://github.com/krishnasree76/Netflix-Tv-Shows-Series-Dashboard/blob/main/Netflix%20Dashboard.png)
 
-> The dashboard is built in *Tableau* for interactive analysis.  
+> The dashboard is built in **Tableau** for interactive analysis.  
 > You can **hover**, **filter**, and **explore** each component in the Tableau environment.
 
-*Note*: The image shown above is a static export.  
+**Note**: The image shown above is a static export.  
 To explore the interactive version, view the published Tableau workbook on [Tableau Public](https://public.tableau.com/app/profile/krishna.raja.sree.bonam/viz/NetflixDashboard_17456785051100/Dashboard1).
